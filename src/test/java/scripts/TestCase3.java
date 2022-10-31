@@ -24,7 +24,7 @@ public class TestCase3 extends BaseClass
 	w.closepopup();
 	driverutiles.switchFrame(driver);
 	
-	Thread.sleep(2000);
+	Thread.sleep(3000);
 	w.playbutton();
 	Thread.sleep(5000);
 	w.pausebtn();
